@@ -26,7 +26,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-There are plenty of places for nerds to review their favorite games and anime, but there's not one site dedicated to letting them store their reviews of both. That's where AnigameForThePeople comes in. It will be a website that consolodates a place for nerds to come and review their favorite anime and games. It will give them the ability to keep track of what they have played, their future wish list, and what they're playing right now. And ducks. Ducks will be everywhere. Everytime you like someones review--ducks. When you give them a thumbs down--evil ducks. They will be the wholesome mascot to encourage others to use the site.
+There are plenty of places for nerds to review their favorite games and anime, but there's not one site dedicated to letting them store their reviews of both. That's where AnigameForThePeople comes in. It will be a website that consolodates a place for nerds to come and review their favorite anime and games. It will give them the ability to keep track of what they have played, their future wish list, and what they're playing right now. And ducks. Ducks will be everywhere. Everytime you recommend a show--ducks. When you give a thumbs down to a show--evil ducks. They will be the wholesome mascot to encourage others to use the site.
 
 ### Design
 
@@ -44,12 +44,17 @@ There are plenty of places for nerds to review their favorite games and anime, b
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Uses correct HTML structure for application. Minimum 3 HTML pages. One for home, one for reviewing, and one for top charts. Hyperlinks and hamburger menu will lead you to pages.
+- **CSS** - Uses correct styling that will adjust to any given screen size, fun and inviting colors, good spacing between items.
+- **React** - Allows user to login and create account, allows user to create and store reviews, displays current rankings for user to explore, allows user to recommend or not recommend a show or game via thumbs up or thumbs down. 
+- **Service** - Backend service for:
+                - login
+                - creating reviews
+                - storing reviews
+                - editing reviews
+                - random duck pictures upon recommending or not recommending a show/game via the https://random-d.uk/api service
+- **DB/Login** - Stores users who create a login. Tracks and keeps a library of their reviews, can't review without a login, but you can still see others reviews. 
+- **WebSocket** - As each user reviews, their reviews are added to the Top Charts to keep track of the highest reviewed anime and games.
 
 ## 🚀 AWS deliverable
 
