@@ -48,11 +48,11 @@ I am going to use the required technologies in the following ways.
 - **CSS** - Uses correct styling that will adjust to any given screen size, fun and inviting colors, good spacing between items.
 - **React** - Allows user to login and create account, allows user to create and store reviews, displays current rankings for user to explore, allows user to recommend or not recommend a show or game via thumbs up or thumbs down. 
 - **Service** - Backend service for:
-                - login
-                - creating reviews
-                - storing reviews
-                - editing reviews
-                - random duck pictures upon recommending or not recommending a show/game via the https://random-d.uk/api service
+    - login
+    - creating reviews
+    - storing reviews
+    - editing reviews
+    - random duck pictures upon recommending or not recommending a show/game via the https://random-d.uk/api service
 - **DB/Login** - Stores users who create a login. Tracks and keeps a library of their reviews, can't review without a login, but you can still see others reviews. 
 - **WebSocket** - As each user reviews, their reviews are added to the Top Charts to keep track of the highest reviewed anime and games.
 
