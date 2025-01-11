@@ -18,4 +18,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## 09 Jan 2025 Workload
 
-I learned that I should read all of the instructions first haha. I was following along before the assignment told me I needed to do different things. But I've used git before, but never consistently enough to just hit the ground running with it. I always look up a brief refresher, but this was already here for me.
+I learned that I should read all of the instructions first haha. I was following along before the assignment told me I needed to do different things. But I've used git before, but never consistently enough to just hit the ground running with it. I always look up a brief refresher, but this was already here for me. git pull -> git add FILE -> git commit FILE -m "MESSAGE" -> git push
