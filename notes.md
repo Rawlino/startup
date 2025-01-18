@@ -29,5 +29,5 @@ Command to ssh: ssh -i [directory to key pair file] ubuntu@3.210.0.58
 Now we can reach our website with anigamereviews.com
 Use it instead of our IP address!
 
-
+One thing I learned is I need to study vim way more hahahahah. I probably just need to start editing much of my files in vim to get the hang of it. 
 
