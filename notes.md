@@ -26,5 +26,8 @@ IP Address for server: 3.210.0.58
 
 Command to ssh: ssh -i [directory to key pair file] ubuntu@3.210.0.58
 
+Now we can reach our website with anigamereviews.com
+Use it instead of our IP address!
+
 
 
