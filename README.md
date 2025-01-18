@@ -1,4 +1,4 @@
-# AnigameForThePeople
+# AniGameReviews 
 
 [My Notes](notes.md)
 
