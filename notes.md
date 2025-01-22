@@ -31,3 +31,6 @@ Use it instead of our IP address!
 
 One thing I learned is I need to study vim way more hahahahah. I probably just need to start editing much of my files in vim to get the hang of it. 
 
+## 21 Jan 2025 Workload
+
+Not gonna lie this was a fire hose of information. I don't even know what to do with everything that I learned from just the structure section alone XD Just the fact that I really need to keep track of HTML elements, how to write them, and making sure the code is easy to read. Here's a website we used when we didn't know how to do something: https://www.w3schools.com/html/html_images.asp
