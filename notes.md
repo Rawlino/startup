@@ -34,3 +34,5 @@ One thing I learned is I need to study vim way more hahahahah. I probably just n
 ## 21 Jan 2025 Workload
 
 Not gonna lie this was a fire hose of information. I don't even know what to do with everything that I learned from just the structure section alone XD Just the fact that I really need to keep track of HTML elements, how to write them, and making sure the code is easy to read. Here's a website we used when we didn't know how to do something: https://www.w3schools.com/html/html_images.asp
+
+For the input section I could not figure out for the life of me how to get the defualt color for the color picker to be red. Do some more research on that.
