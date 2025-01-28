@@ -70,11 +70,11 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Proper HTML element usage** - I strived to use correct HTML elements.
 - [x] **Links** - I have links connecting all of the pages together.
 - [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
+- [x] **3rd party API placeholder** - I added a button for the random ducks to be given. 
 - [x] **Images** - I added image placeholders for a lot of my furutre deliverable technology.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
+- [x] **Login placeholder** - There is a login placeholder, as well as where the username will be displayed after login. 
 - [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **WebSocket placeholder** - An image for the top charts has been put down as a placeholder.
 
 ## 🚀 CSS deliverable
 
