@@ -38,3 +38,10 @@ Not gonna lie this was a fire hose of information. I don't even know what to do 
 For the input section I could not figure out for the life of me how to get the defualt color for the color picker to be red. Do some more research on that.
 
 Haha find where the cs260 lab is and hop on in there while you're working on this. Or just look up lots of tutorials as we're learning how to deply and include certain elements. Most of all, don't give up! Do a little each day (or every other day as time allows).
+
+## 27 January 2025 
+### Notes after deliverable:
+
+HTML IS GRUELING! But you can do some pretty cool things with it. While I was looking through the readings and looking stuff up online, the most important thing I found was to just be aware that you can nest tags within each other to create more advanced things.
+
+CSS is next and we'll probably want to get started on it really soon, but it should be fun to make everything look pretty now that we've done it. After finishing up our initial plans though, I think we might want to add one more HTML page as a place to see other people's reviews. We'll add it later if we have time, but keep it up!
