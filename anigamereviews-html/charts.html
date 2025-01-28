@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Tell browsers not to scale the viewport automatically -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AniGameReviews HTML</title>
+    <link rel="icon" href="favicon.ico" />
+  </head>
+  <body>
+    <!-- Use header, main, and footer elements to give semantic structure -->
+    <header>
+      <h1>AniGameReviews<sup>&reg;</sup></h1>
+      <h3>Username: placeholder</h3>
+
+      <!-- Navigation elements -->
+      <nav>
+        <!-- Menu is a semantic alternative to <ul> that represents an interaction -->
+        <menu>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="review.html">Review</a></li>
+          <li><a href="charts.html">Charts</a></li>
+        </menu>
+      </nav>
+
+      <!-- Since we don't have the ability to style we use old style HTML to give some visual formatting -->
+      <hr />
+    </header>
+
+    <main>
+      <h1>Welcome To Your Centralized Reviews</h1>
+      <form method="get" action="index.html">
+        <div>
+          <span>@</span>
+          <input type="text" placeholder="your@email.com" />
+        </div>
+        <div>
+          <span>🔒</span>
+          <input type="password" placeholder="password" />
+        </div>
+        <button type="submit">Login</button>
+        <button type="submit">Create</button>
+      </form>
+      <div>
+        <a href="review.html">
+          <button type="button">
+            <img src="./image_library/anime_button.png" alt="animebutton.png" style="width:250px;height:250px;"/>
+          </button>
+          <button type="button">
+            <img src="./image_library/game_button.png" alt="gamebutton.png" style="width:250px;height:250px;" />
+          </button>
+        </a>
+      </div>
+      <div>
+        <a href="charts.html">
+          <button type="button">
+            <img src="./image_library/top_charts.png" alt="top_charts.png" style="width:700px;height:300px;"/>
+          </button>
+        </a>
+      </div>
+    </main>
+
+    <footer>
+      <hr />
+      <span class="text-reset">Author:</span>
+      <br />
+      <a href="https://github.com/Rawlino/startup">Rawlino's GitHub</a>
+    </footer>
+  </body>
+</html>
