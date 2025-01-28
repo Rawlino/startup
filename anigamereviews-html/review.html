@@ -28,36 +28,12 @@
     </header>
 
     <main>
-      <h1>Welcome To Your Centralized Reviews</h1>
-      <form method="get" action="index.html">
-        <div>
-          <span>@</span>
-          <input type="text" placeholder="your@email.com" />
-        </div>
-        <div>
-          <span>🔒</span>
-          <input type="password" placeholder="password" />
-        </div>
-        <button type="submit">Login</button>
-        <button type="submit">Create</button>
-      </form>
-      <div>
-        <a href="review.html">
-          <button type="button">
-            <img src="./image_library/anime_button.png" alt="animebutton.png" style="width:250px;height:250px;"/>
-          </button>
-          <button type="button">
-            <img src="./image_library/game_button.png" alt="gamebutton.png" style="width:250px;height:250px;" />
-          </button>
-        </a>
-      </div>
-      <div>
-        <a href="charts.html">
-          <button type="button">
-            <img src="./image_library/top_charts.png" alt="top_charts.png" style="width:700px;height:300px;"/>
-          </button>
-        </a>
-      </div>
+      <h1>Let's Review!</h1>
+      <label for="anigames">Games or Anime?</label>
+      <select name="anigames" id="anigames">
+        <option value="game">Game</option>
+        <option value="anime">Anime</option>
+      </select>
     </main>
 
     <footer>
