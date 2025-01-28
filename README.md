@@ -69,11 +69,11 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **HTML pages** - I created 3 HTML pages for the website.
 - [x] **Proper HTML element usage** - I strived to use correct HTML elements.
 - [x] **Links** - I have links connecting all of the pages together.
-- [ ] **Text** - I did not complete this part of the deliverable.
+- [x] **Text** - I placed necessary text to understand what each page was accomplishing.
 - [x] **3rd party API placeholder** - I added a button for the random ducks to be given. 
 - [x] **Images** - I added image placeholders for a lot of my furutre deliverable technology.
 - [x] **Login placeholder** - There is a login placeholder, as well as where the username will be displayed after login. 
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
+- [x] **DB data placeholder** - A place to create reviews that will be saved was created.
 - [x] **WebSocket placeholder** - An image for the top charts has been put down as a placeholder.
 
 ## 🚀 CSS deliverable
