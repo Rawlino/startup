@@ -45,3 +45,7 @@ Haha find where the cs260 lab is and hop on in there while you're working on thi
 HTML IS GRUELING! But you can do some pretty cool things with it. While I was looking through the readings and looking stuff up online, the most important thing I found was to just be aware that you can nest tags within each other to create more advanced things.
 
 CSS is next and we'll probably want to get started on it really soon, but it should be fun to make everything look pretty now that we've done it. After finishing up our initial plans though, I think we might want to add one more HTML page as a place to see other people's reviews. We'll add it later if we have time, but keep it up!
+
+## 29 January 2025
+
+We're going into the TA help lab on Friday hahahaha. I'm reading all of these things but I can't really tell what I'm reading at this point. Like I somehow missed a day or something. But just remember that you absolutely want to include flex into your website so that it looks pretty when people want to resize the window. Don't worry if you have to look it up again, but there is power if you choose to include this in your design!
