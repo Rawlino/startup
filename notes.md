@@ -49,3 +49,5 @@ CSS is next and we'll probably want to get started on it really soon, but it sho
 ## 29 January 2025
 
 We're going into the TA help lab on Friday hahahaha. I'm reading all of these things but I can't really tell what I'm reading at this point. Like I somehow missed a day or something. But just remember that you absolutely want to include flex into your website so that it looks pretty when people want to resize the window. Don't worry if you have to look it up again, but there is power if you choose to include this in your design!
+
+Remember to make a separate CSS page for every single one of your HTML pages. Let's finalize what kind of pages we want to have, and if we want to add anymore or remove or just edit the purpose of a page. Remember to use Bootstrap!
