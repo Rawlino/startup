@@ -1,3 +1,21 @@
+/*CSS for Header*/
+.header {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 20px;
+}
+
+/*Username Holder*/
+.username {
+  text-align: left;
+  
+}
+
+/*CSS for Main*/
+
+/*CSS for Footer*/
+
+/*All that's below is for site buttons*/
 .site_button {
   align-items: center;
   appearance: none;
@@ -107,3 +125,4 @@
   cursor: default;
   opacity: .24;
 }
+/*Site button CSS done*/
