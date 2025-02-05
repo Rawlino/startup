@@ -51,3 +51,15 @@ CSS is next and we'll probably want to get started on it really soon, but it sho
 We're going into the TA help lab on Friday hahahaha. I'm reading all of these things but I can't really tell what I'm reading at this point. Like I somehow missed a day or something. But just remember that you absolutely want to include flex into your website so that it looks pretty when people want to resize the window. Don't worry if you have to look it up again, but there is power if you choose to include this in your design!
 
 Remember to make a separate CSS page for every single one of your HTML pages. Let's finalize what kind of pages we want to have, and if we want to add anymore or remove or just edit the purpose of a page. Remember to use Bootstrap!
+
+## 4 Febuary 2025
+
+A couple of mistakes. This was my first deliverable I waited the last day to do and it wasn't great. Thankfully I finished every other classes work so that I could focus on this deliverable today, but I need to figure out some motivator to have me work a little bit every day on these future deliverables. 
+
+Another thing is that it was super easy to burn out after working on CSS for awhile. It was a lot of fun in the beginning, but eventually I couldn't even think of how I wanted the website to look and that is not a good thing... Anyways. 
+
+Some important things to remember that I learned from CSS. People online know a lot! Don't hesitate to read up on W3 Schools... I think it was called. That one has really basic tutorials to make your site look really pretty. Remember that you need to call a class on any objects you want to modify unless you want to modify every h3, or select, or button tag. But I think that naming classes is safer.
+
+We need to look up when to use main.css and when to use the normal pages css. I felt that most times everything got covered by the main.css, but maybe that shouldn't have been the case. Anyways. You also need to learn how to center align objects like our buttons, not just text. 
+
+I think that's all I have. CSS is hard work because of how much goes into it, but it's also the funnest thing we've done so far. ALSO FIGURE OUT WHY SETTING ALL BACKGROUNDS TO GREY DIDN'T TURN THE MAIN BLOCK PADDING TO GREY.
