@@ -80,12 +80,12 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Header, footer, and main content body** - I did not complete this part of the deliverable.
-- [ ] **Navigation elements** - I did not complete this part of the deliverable.
-- [ ] **Responsive to window resizing** - I did not complete this part of the deliverable.
-- [ ] **Application elements** - I did not complete this part of the deliverable.
-- [ ] **Application text content** - I did not complete this part of the deliverable.
-- [ ] **Application images** - I did not complete this part of the deliverable.
+- [x] **Header, footer, and main content body** - I made the header, footer, and main elements uniform between pages.
+- [x] **Navigation elements** - I made the navigation elements uniform across the pages.
+- [x] **Responsive to window resizing** - I believe I did this part hahahaha. I'm not entirely sure if I checked every edge case to make sure that it was good.
+- [x] **Application elements** - I edited most application elements. I struggled towards the end figuring out what I wanted to do with the 'Review' page.
+- [x] **Application text content** - I edited some but not all the text of the application. Primarily text colors. Haven't decided if I want to change the 
+- [x] **Application images** - I added an image in through parallax and removed images that were replaced with actual elements.
 
 ## 🚀 React part 1: Routing deliverable
 
