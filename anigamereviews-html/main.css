@@ -1,9 +1,7 @@
 /*CSS for Background Color*/
 * {background-color: #333}
 
-hr {
-  background-color: #333;
-}
+* {color: rgb(190, 91, 182)}
 
 /*CSS for Parallax*/ 
 body, html {
