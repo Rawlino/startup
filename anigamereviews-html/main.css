@@ -23,6 +23,22 @@ body, html {
 }
 
 
+/*CSS used for phones*/
+@media (orientation: portrait) {
+  main {
+    flex-direction: column;
+  }
+}
+
+@media (max-height: 700px) {
+  header {
+    display: inline;
+  }
+  footer {
+    display: inline;
+  }
+}
+
 /*CSS for Header*/
 .header {
   flex: 0 80px;
