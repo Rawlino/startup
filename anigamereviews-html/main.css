@@ -25,6 +25,7 @@ body, html {
 
 /*CSS for Header*/
 .header {
+  flex: 0 80px;
   background-color: #333;
   color: rgb(190, 91, 182);
   text-align: center;
@@ -65,9 +66,16 @@ body, html {
 
 /*CSS for Main*/
 
+main {
+  flex:1 ;
+  display: flex;
+  flex-direction: column;
+}
+
 /*CSS for Footer*/
 
 footer {
+  flex: 0 30px;
   background-color: #333;
   text-align: center;
   color: rgb(190, 91, 182);
