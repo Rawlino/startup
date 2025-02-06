@@ -63,3 +63,7 @@ Some important things to remember that I learned from CSS. People online know a 
 We need to look up when to use main.css and when to use the normal pages css. I felt that most times everything got covered by the main.css, but maybe that shouldn't have been the case. Anyways. You also need to learn how to center align objects like our buttons, not just text. 
 
 I think that's all I have. CSS is hard work because of how much goes into it, but it's also the funnest thing we've done so far. ALSO FIGURE OUT WHY SETTING ALL BACKGROUNDS TO GREY DIDN'T TURN THE MAIN BLOCK PADDING TO GREY.
+
+## 6 Febuary 2025
+
+Don't forget to read "Ultimate React Router Guide v6." I just learned that there's going to be a lot of things changing with our code and I better get ready for it. Nothing more to it. I can't exactly remember what I was learning as I was reading, but I followed along where I could.
