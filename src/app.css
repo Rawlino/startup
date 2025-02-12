@@ -3,6 +3,13 @@
 
 * {color: rgb(190, 91, 182)}
 
+/*Body element*/
+.body {
+  display: flex;
+  flex-direction: column;
+  min-width: 375px;
+}
+
 /*CSS for Parallax*/ 
 body, html {
   height: 100%;
