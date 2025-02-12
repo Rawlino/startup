@@ -69,3 +69,7 @@ I think that's all I have. CSS is hard work because of how much goes into it, bu
 Don't forget to read "Ultimate React Router Guide v6." I just learned that there's going to be a lot of things changing with our code and I better get ready for it. Nothing more to it. I can't exactly remember what I was learning as I was reading, but I followed along where I could.
 
 Finished deploying Simon! I feel that I need to make my header and footer a little prettier after finishing this but also the main body of all my pages could use work haha. I need to be more specific in my code about adding classes and stuff, although at this point it will be className instead but you get the point. Just do your deliverable one step at a time and it should be mostly chill XD 
+
+## 11 Feburary 2025
+
+Forgot to take any notes from readings today. Learned a lot about React Components and thought about using the timer function to make a duck walk across the bottom of the screen at regular intervals. Obviously not something I'm going to work on during this semester, but it's an idea for working on this site later. 

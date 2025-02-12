@@ -30,7 +30,7 @@ There are plenty of places for nerds to review their favorite games and anime, b
 
 ### Design
 
-![Design image](anigame_mockup.png)
+![Design image](public/image_library/anigame_mockup.png)
 
 ### Key features
 
