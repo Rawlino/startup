@@ -73,3 +73,5 @@ Finished deploying Simon! I feel that I need to make my header and footer a litt
 ## 11 Feburary 2025
 
 Forgot to take any notes from readings today. Learned a lot about React Components and thought about using the timer function to make a duck walk across the bottom of the screen at regular intervals. Obviously not something I'm going to work on during this semester, but it's an idea for working on this site later. 
+
+Notes for next time: Get started on the section "Create App Component."
