@@ -3,24 +3,27 @@
 
 * {color: rgb(190, 91, 182)}
 
-/*Body element*/
-.body {
+div {
+  flex: 1;
+}
+ 
+body, html #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: column;
   min-width: 375px;
 }
 
-/*CSS for Parallax*/ 
-body, html {
-  height: 100%;
-}
-
+/*CSS for Parallax*/
 .parallax {
   /* The image used */
-  background-image: url("image_library/background_image.png");
+  background-image: url("/image_library/background_image.png");
 
-  /* Full height */
-  height: 25%;
+  /* Height and Width */
+  height: 25vh;
+  width: 100%;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
