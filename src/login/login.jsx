@@ -19,16 +19,16 @@ export function Login() {
   </form>
 
   <div>
-    <a href="review.html">
+    <a href="review">
       <button className="review_button" type="button">Review Anime</button>
     </a>
-    <a href="review.html">
+    <a href="review">
       <button className="review_button" type="button">Review Games</button>
     </a>
   </div>
 
   <div>
-    <a href="charts.html">
+    <a href="./charts">
       <button type="button">
         <img src="./image_library/top_charts.png" alt="Top Charts" style={{ width: "700px", height: "300px" }} />
       </button>
