@@ -1,5 +1,6 @@
 import React from 'react';
 import './login.css'
+import {Charts} from '/home/orion/Documents/byu/cs/cs_260/startup/src/charts/charts'
 
 export function Login() {
   return (
@@ -28,11 +29,7 @@ export function Login() {
   </div>
 
   <div>
-    <a href="./charts">
-      <button type="button">
-        <img src="./image_library/top_charts.png" alt="Top Charts" style={{ width: "700px", height: "300px" }} />
-      </button>
-    </a>
+    <Charts />
   </div>
 </main>
   );

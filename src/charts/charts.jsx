@@ -1,26 +1,27 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './charts.css';
 
 function openCtg(evt, ctgName) {
-  
   const tabcontent = document.getElementsByClassName("tabcontent");
   for (let i = 0; i < tabcontent.length; i++) {
     tabcontent[i].style.display = "none";
   }
 
-  
   const tablinks = document.getElementsByClassName("tablinks");
   for (let i = 0; i < tablinks.length; i++) {
     tablinks[i].className = tablinks[i].className.replace(" active", "");
   }
 
-  
   document.getElementById(ctgName).style.display = "block";
   evt.currentTarget.className += " active";
-
 }
 
 export function Charts() {
+  useEffect(() => {
+    // Automatically click the button with id "defaultOpen" when the component mounts
+    document.getElementById("defaultOpen").click();
+  }, []);
+
   return (
     <main>
       <h1>Who's Cooking Right Now?</h1>
