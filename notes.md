@@ -76,6 +76,10 @@ Forgot to take any notes from readings today. Learned a lot about React Componen
 
 Notes for next time: Get started on the section "Create App Component."
 
-## February 13 2025 (After Deliverable)
+## 13 February 2025 (After Deliverable)
 
 Biggest take away is just remember to debug your code with the inspect element in your browser hahaha. That stuff is op. When there's one error the entire page won't load and that really helps to find some errors. The work wasn't as difficult as I thought, just a little long. We gotta get around to updating some of the css though because out site doesn't look really pretty rn.
+
+## 27 Februrary 2025
+
+I didn't finish everything that I wanted to. I was able to get the basis of what I want the charts to look like and was able to get the login working. But I didn't do any of the review section. I don't think I had it set up correctly and couldn't think of where to place the reviews and such. I'll just have to take the point loss for right now, but I still plan on working on this website over the summer, I just couldn't figure out. I will say the useEffect is really nice and I need to use it more. It helped me to set a default select on the charts page and I can definitely use it in other sections of the page as well. All in all, jsx is hard to wrap my head around in such a short amount of time, but it was fun and I do appreciate it.
