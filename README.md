@@ -99,8 +99,8 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **All functionality implemented or mocked out** - I did not complete this part of the deliverable.
-- [ ] **Hooks** - I did not complete this part of the deliverable.
+- [x] **All functionality implemented or mocked out** - I only did 2 of my 3 react components functionality (one of those 2 relies on the one that I didn't finish for displaying reviews).
+- [x] **Hooks** - I used useState and useEffect.
 
 ## 🚀 Service deliverable
 
