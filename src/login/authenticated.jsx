@@ -15,11 +15,11 @@ export function Authenticated(props) {
 
   return (
     <div>
-      <div className='playerName'>{props.userName}</div>
-      <Button variant='primary' onClick={() => navigate('/play')}>
-        Play
+      <div className='playerName'>Success! What would you like to do?</div>
+      <Button className="site_button" onClick={() => navigate('/review')}>
+        Review
       </Button>
-      <Button variant='secondary' onClick={() => logout()}>
+      <Button className="site_button" onClick={() => logout()}>
         Logout
       </Button>
     </div>

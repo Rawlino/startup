@@ -9,7 +9,7 @@ import { AuthState } from './login/authState';
 
 
 
-export default function App() {
+export default function App(props) {
   const [userName, setUserName] = React.useState(localStorage.getItem('userName') || '');
   const currentAuthState = userName ? AuthState.Authenticated : AuthState.Unauthenticated;
   const [authState, setAuthState] = React.useState(currentAuthState);
@@ -19,7 +19,7 @@ export default function App() {
         <div>
             <header>
               <h1 className="header">AniGameReviews<sup>&reg;</sup></h1>
-              <h3 className="username"><img className="username" src="/image_library/profile_pic.png" style={{ width: "100px", height: "100px" }} />Username</h3>
+              <h3 className="username"><img className="username" src="/image_library/profile_pic.png" style={{ width: "100px", height: "100px" }} />{userName}</h3>
               <nav>
                 <menu className="topnav">
                   <NavLink to="login">Home</NavLink>

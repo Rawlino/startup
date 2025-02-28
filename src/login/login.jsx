@@ -28,15 +28,16 @@
 //     </a>
 //   </div>
 
-//   <div>
-//     <Charts />
-//   </div>
+  // <div>
+  //   <Charts />
+  // </div>
 // </main>
 //   );
 // }
 
 import React from 'react';
 import './login.css'
+import {Charts} from '/home/orion/Documents/byu/cs/cs_260/startup/src/charts/charts'
 
 import { Unauthenticated } from './unauthenticated';
 import { Authenticated } from './authenticated';
@@ -46,7 +47,7 @@ export function Login({ userName, authState, onAuthChange }) {
   return (
     <main className='container-fluid bg-secondary text-center'>
       <div>
-        {authState !== AuthState.Unknown && <h1>Welcome to Simon</h1>}
+        {authState !== AuthState.Unknown && <h1>Login & Review</h1>}
         {authState === AuthState.Authenticated && (
           <Authenticated userName={userName} onLogout={() => onAuthChange(userName, AuthState.Unauthenticated)} />
         )}
@@ -58,6 +59,9 @@ export function Login({ userName, authState, onAuthChange }) {
             }}
           />
         )}
+      </div>
+      <div>
+        <Charts />
       </div>
     </main>
   );
