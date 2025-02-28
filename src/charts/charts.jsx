@@ -18,7 +18,6 @@ function openCtg(evt, ctgName) {
 
 export function Charts() {
   useEffect(() => {
-    // Automatically click the button with id "defaultOpen" when the component mounts
     document.getElementById("defaultOpen").click();
   }, []);
 
