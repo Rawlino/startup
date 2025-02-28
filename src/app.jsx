@@ -5,10 +5,15 @@ import { BrowserRouter, NavLink, Route, Routes } from 'react-router-dom';
 import { Login } from './login/login';
 import { Charts } from './charts/charts';
 import { Review } from './review/review';
+import { AuthState } from './login/authState';
 
 
 
 export default function App() {
+  const [userName, setUserName] = React.useState(localStorage.getItem('userName') || '');
+  const currentAuthState = userName ? AuthState.Authenticated : AuthState.Unauthenticated;
+  const [authState, setAuthState] = React.useState(currentAuthState);
+
   return(
     <BrowserRouter>
         <div>
@@ -26,8 +31,34 @@ export default function App() {
             </header>
 
             <Routes>
-             <Route path='/' element={<Login />} exact />
-             <Route path='/login' element={<Login />} exact />
+            <Route
+                path='/'
+                element={
+                  <Login
+                    userName={userName}
+                    authState={authState}
+                    onAuthChange={(userName, authState) => {
+                      setAuthState(authState);
+                      setUserName(userName);
+                    }}
+                  />
+                }
+                exact
+              />
+             <Route
+                path='/login'
+                element={
+                  <Login
+                    userName={userName}
+                    authState={authState}
+                    onAuthChange={(userName, authState) => {
+                      setAuthState(authState);
+                      setUserName(userName);
+                    }}
+                  />
+                }
+                exact
+              />
              <Route path='/review' element={<Review />} />
              <Route path='/charts' element={<Charts />} />
              <Route path='*' element={<NotFound />} />
