@@ -22,7 +22,7 @@ export function Charts() {
   }, []);
 
   return (
-    <main>
+    <main className='container-fluid text-center'>
       <h1>Who's Cooking Right Now?</h1>
       <div>
         <div className="tab">

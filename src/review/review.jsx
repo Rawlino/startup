@@ -3,7 +3,7 @@ import './review.css'
 
 export function Review() {
   return (
-    <main>
+    <main className='container-fluid text-center'>
       <h1 class="title">Let's Review!</h1>
       <label for="anigames">Games or Anime?</label>
       <select name="anigames" id="anigames">
